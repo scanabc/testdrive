@@ -1,0 +1,117 @@
+
+
+.project-name {
+   color: #ffe;
+   font-size: 45px;
+
+}
+
+.project-tagline {
+  color: #ffe;
+  font-size: 25px;
+}
+
+.main-content {
+  padding-left: 0rem;
+  padding-right: 0rem;
+  width: 100%;
+  max-width: 3000px;
+}
+
+.main-content p {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.main-content ul {
+  padding-left: 4rem;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: $content-heading-color;
+  font-family: $font-family;
+  padding-left: 2rem;
+  padding-top: 1rem;
+}
+.container {
+  max-width: 3000px;
+  padding-bottom: 1rem;
+}
+
+#w400r {
+  min-width: 40%;
+  max-width: 400px;
+  padding-left: 2rem;
+  float: right;
+}
+
+.bg-jani {
+  color: #000;
+  background-color: #fff;
+  background: linear-gradient(rgba(230, 210, 150, 0.1), rgba(230, 210, 150, 0.1) ), url(../../img/jani.png);
+  background-position: $background-position;
+  max-width: 3000px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+.bg-dark {
+  background-color: #333;
+  color: #ddd; //rgb(96,108,113);
+  //font-weight: 200;
+}
+
+.bg-hownetworks {
+  color: #fff;
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5) ), url(../../img/plan.jpg);
+  //background-position: $background-position;
+  background-position: 20% 30%;
+  max-width: 3000px;
+
+}
+
+
+#background {
+  padding-left: 0rem;
+  padding-right: 0rem;
+  width: 100%;
+}
+
+#white {
+ color: #fff;
+}
+.container-bg {
+  position: relative;
+  width: 100%;
+  filter: brightness(50%);
+
+}
+.vignette {
+  position: relative;
+  z-index: 1;
+}
+
+.vignette p {
+  padding-right: 0rem;
+  z-index: 3;
+}
+.vignette img {
+ display: block;
+ width: 100%;
+}
+
+.vignette:after {
+ box-shadow: inset 0 0 100em #000;
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ z-index: 2;
+ content: "";
+}

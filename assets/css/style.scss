@@ -1,0 +1,14 @@
+---
+---
+$background-image: {{ site.background-image }};
+$background-position: {{ site.background-position }};
+$header-bg-color: {{ site.header-bg-color }};
+$header-text-bg-color: {{ site.header-text-bg-color }};
+$content-heading-color: {{ site.content-heading-color }};
+
+$font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+
+
+@import "{{ site.theme }}";
+@import "scan";
+@import "custom";

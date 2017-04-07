@@ -1,0 +1,40 @@
+
+.page-header {
+  background-image: $background-image;
+  background-position: $background-position;
+  background-color: $header-bg-color;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 8rem;
+  padding-top: 8rem;
+  max-width: 3000px;
+
+  font-family:  "Lucida Grande", "HelveticaNeue-Light",
+                "Helvetica Neue Light","Helvetica Neue",
+                Helvetica, Arial, sans-serif;
+}
+
+.project-name {
+  font-size: 40px;
+  letter-spacing: 4px;
+  background-color: $header-text-bg-color;
+}
+
+.project-tagline {
+  opacity: 1;
+  font-size: 24px;
+  background-color: $header-text-bg-color;
+  color: #fff;
+
+}
+
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: $content-heading-color;
+  font-family: $font-family;
+}

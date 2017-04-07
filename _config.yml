@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+title: Security Startup Test Drive
+description: Give hip startup-life a spin!
+
+## Use gradient in header instead of image
+# background-image: linear-gradient(120deg, \#155799, \#159957)
+
+background-image: url('../../img/header.jpg')
+
+background-position: 50% 30%
+
+header-bg-color: rgb(0,0,0)
+header-text-bg-color: rgba(0,0,0,0);
+
+content-heading-color: rgb(120,120,70);
