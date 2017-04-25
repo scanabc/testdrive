@@ -132,29 +132,6 @@ I just ended up with the company of loony Finns with a desire to go a bit
 further than helping the local community, and become one of them.
 </div>
 
-<div markdown="1" class="container bg-hownetworks">
-
-## Case HowNetWorks Oy
-{: #white}
-
-HowNetWorks was the first company to run the test drive.
-The founders balanced the lack business plan by
-setting a strict deadline for the company. They set a self-destruct to
-three months. By that time there would have to be proof that the company
-deserves to exists.
-
-During that time, a pro bono service called URI:Teller saw the daylight.
-It helped to reveal a privacy issue from a popular instant messaging client
-called Telegram. Telegram fixed the issues and URI:Teller is now used by
-individuals around the world.
-
-The founders, @oherrala and @FIXME learned tons of new networking tricks
-during that three months. Encouraged of the experiences, @oherrala joined
-SensorFu, a security startup with an actual business plan.
-@FIXME bought the shares of HowNetworks and he will keep it going
-while working on setting up a new company.
-</div>
-
 <!-- markdownlint-enable MD041-->
 <!-- markdownlint-enable MD033-->
 <!-- markdownlint-enable MD026-->
