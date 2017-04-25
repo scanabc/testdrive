@@ -23,12 +23,15 @@ your startup. (Yes, it is yours!)
 We've seen so many talented techies, and so many novel ideas and
 prototypes... if we only could convince people to be a slightly more
 megalomaniac! If they only realized what is the potential within them!
-How great ideas and prototypes would mature, get out to the world and allow humankind to go further in the use of technology?
+How great ideas and prototypes would mature, get out to the world and
+allow humankind to go further in the use of technology?
 
 ## Why the Test Drive and not the Real Deal
 
 The real deal is certainly an option. We've just found out that two
-things sometimes block people for considering the life of an enterpreneur: financial insecurity and fear of excessive workload. Time-limited test drive allows people to give it a spin, and then make a bit more balanced decision
+things sometimes block people for considering the life of an enterpreneur:
+financial insecurity and fear of excessive workload. Time-limited test drive
+allows people to give it a spin, and then make a bit more balanced decision
 what they want to do.
 
 <div markdown="1" class="container bg-dark">
@@ -36,7 +39,9 @@ what they want to do.
 ## What's in it for You
 
 You have the opportunity to try out what it is like to be an entrepreneur.
-[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) -hard? Or just as hard than anything else you've wanted to do properly in your life? If you like the experiment, you will unlock additional quests.
+[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) -hard? Or just as hard
+than anything else you've wanted to do properly in your life? If you like
+the experiment, you will unlock additional quests.
 
 ## What's in it for Us
 
@@ -123,7 +128,8 @@ stick to possibilities; Truth isn't.*
 
 I ended up helping a number of governments to improve the online security of
 their citizens. Not because I'm overly smart, or special in any way.
-I just ended up with the company of loony Finns with a desire to go a bit further than helping the local community, and become one of them.
+I just ended up with the company of loony Finns with a desire to go a bit
+further than helping the local community, and become one of them.
 </div>
 
 <div markdown="1" class="container bg-hownetworks">
@@ -138,12 +144,15 @@ three months. By that time there would have to be proof that the company
 deserves to exists.
 
 During that time, a pro bono service called URI:Teller saw the daylight.
-It helped to reveal a privacy issue from a popular instant messaging client called Telegram. Telegram fixed the issues and URI:Teller is now used by individuals around the world.
+It helped to reveal a privacy issue from a popular instant messaging client
+called Telegram. Telegram fixed the issues and URI:Teller is now used by
+individuals around the world.
 
 The founders, @oherrala and @FIXME learned tons of new networking tricks
 during that three months. Encouraged of the experiences, @oherrala joined
 SensorFu, a security startup with an actual business plan.
-@FIXME bought the shares of HowNetworks and he will keep it going whileworking on setting up a new company. 
+@FIXME bought the shares of HowNetworks and he will keep it going
+while working on setting up a new company.
 </div>
 
 <!-- markdownlint-enable MD041-->
