@@ -135,20 +135,20 @@ further than helping the local community, and became one of them.
 <!-- markdownlint-enable MD022-->
 
 HowNetWorks was the first company to run the test drive.
-The founders balanced the lack business plan by
-setting a strict deadline for the company. They set a self-destruct timer for
-three months. They wanted to have proof by that time, that the company
+The founders balanced the lack of a surefire business plan by
+setting a strict deadline for the company. They set the self-destruct timer to
+three months. That was the deadline for delivering the proof that the company
 deserves to exists.
 
-During that time, a pro bono service called [URI:Teller](https://uriteller.io/)
-saw the daylight. It helped to reveal a privacy issue from a popular insetant
+During those threee months a pro bono service called [URI:Teller](https://uriteller.io/)
+saw the daylight. It helped to reveal a privacy issue from a popular instant
 messaging client called Telegram. Telegram fixed the issues and URI:Teller is
 now used by individuals around the world.
 
-The founders, @oherrala and @FIXME learned tons of new networking tricks
-during that three months. Encouraged of the experiences, @oherrala joined
+The founders, @oherrala and @jviide, learned tons of new networking tricks
+during that three months. Encouraged by the experiences @oherrala joined
 SensorFu, a security startup with an actual business plan.
-@FIXME bought the shares of HowNetworks and he will keep it going
+@jviide bought the shares of HowNetworks and he will keep it going
 while working on setting up a new company.
 </div>
 
