@@ -6,7 +6,7 @@
 
 # Security Startup Test Drive -program
 
-*Security Startup Test Drive is a risk-free way to see if you
+*A risk-free way to see if you
 would enjoy a life of a security startup hacker.*
 
 ## Designed for You
@@ -20,19 +20,18 @@ your startup. (Yes, it is yours!)
 
 ![Prototype](img/prototype.png){: #w400r}
 
-We've seen so many talented techies, and so many novel ideas and
-prototypes... if we only could convince people to be a slightly more
-megalomaniac! If they only realized what is the potential within them!
-How great ideas and prototypes would mature, get out to the world and
-allow humankind to go further in the use of technology?
+We've seen so many talented techies, novel ideas and
+prototypes stuck in a Garage-stage. We want them (and the
+future ones) out to the world. We want to infect people with the same
+megalomania we have suffered for ages.
 
 ## Why the Test Drive and not the Real Deal
 
 The real deal is certainly an option. We've just found out that two
 things sometimes block people for considering the life of an enterpreneur:
 financial insecurity and fear of excessive workload. Time-limited test drive
-allows people to give it a spin, and then make a bit more balanced decision
-what they want to do.
+allows people to give it a spin, and then make a tad more balanced decision
+what they want to do with their life.
 
 <div markdown="1" class="container bg-dark">
 
@@ -40,8 +39,7 @@ what they want to do.
 
 You have the opportunity to try out what it is like to be an entrepreneur.
 [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) -hard? Or just as hard
-than anything else you've wanted to do properly in your life? If you like
-the experiment, you will unlock additional quests.
+than anything else you've wanted to do properly in your life? 
 
 ## What's in it for Us
 
@@ -76,26 +74,21 @@ Don't make your life decisions based on perceptions. Get evidence!
 ![Flow](img/idea.png){: #w400r}
 ### Idea
 
-First we pick the idea together. You can bring your own, or your background. Understanding your background, we can probably suggest a goal worth pursuing.
+First we pick the idea together. You can bring your own idea, or your background. Understanding your background, we can probably propose a goal worth pursuing.
 
 ### Cultivate
 
 Then we cultivate the idea a bit - together of course.
 Is the world ready for the idea?
 Are we missing something needed to make it happen?
-A team member? More detailed plan? Anything necessary
-to be comfortable that next three months will be fruitful.
+A team member? More detailed plan? The goal is to make sure the
+next three months are fruitful (= fun).
 
-### Standalone
+### Standalone or Adoption
 
-After the talk there are two ways forward. The standalone path and the
-adoption path. In standalone path we have an idea which stands on
-its own feet and is worthy of an own company. 
-
-### Adoption
-
-In the adoption path we have
-chosen an idea which fundamentally supports some of the companies already
+After we've done talking there are two ways forward. The standalone path and the
+adoption path. In standalone path we together have an idea which stands on
+its own feet and is worthy of an own company. In the adoption path we have chosen an idea which fundamentally supports some of the companies already
 set up. The companies in our portfolio are small and cherish open
 culture and are happy to adopt you for a test-run. You will be a full
 member of the team, just like you would be one of them.
@@ -107,13 +100,12 @@ member of the team, just like you would be one of them.
 ## Case Jani Kenttälä
 
 When I was a teenager, I swore that I'll never become an entrepreneur.
-Two exits later, I am very happy I didn't keep my promise.
-While there are a lot of good signs that my attitude is not shared
-with people planning their future today, I still wonder how many
-good ideas are left undone because of misconceptions about entrepreneurship.
+Two exits later, I am very happy that I didn't keep my promise.
+While there are a lot of good signs that new generation is more adventorous, 
+I still wonder: how many good ideas are left undone because of misconceptions about entrepreneurship.
 
-Years later, I ended up in a situation where I could
-give entrepreneurship a try. Me and my colleagues at the University of Oulu
+Years after I made my promise, I ended up in a situation where I could
+give entrepreneurship a spin. Me and my colleagues at the University of Oulu
 thought we had something to contribute to the world. We had
 two options. Spread the word through academic papers, or
 through a commercial company. I had just gone a heavyish process of writing my
@@ -121,27 +113,27 @@ M.Sc thesis, so I thought I could give the commercial path a try.
 
 That decision to "try" set things in motion.
 I ended up places I could have never imagined. And such (positively) peculiar
-things happened that I've found this quote from Mark Twain to be pretty solid:
+things happened that I find Mark Twain's words solid:
 
 *Truth is stranger than fiction, but it is because Fiction is obliged to
 stick to possibilities; Truth isn't.*
 
 I ended up helping a number of governments to improve the online security of
-their citizens. Not because I'm overly smart, or special in any way.
+their citizens. Not because I'm overly smart. Not because I'm special in any way.
 I just ended up with the company of loony Finns with a desire to go a bit
-further than helping the local community, and become one of them.
+further than helping the local community, and became one of them.
 </div>
 ## Case HowNetWorks Oy
 {: #white}
 
 HowNetWorks was the first company to run the test drive.
 The founders balanced the lack business plan by
-setting a strict deadline for the company. They set a self-destruct to
-three months. By that time there would have to be proof that the company
+setting a strict deadline for the company. They set a self-destruct timer for
+three months. They wanted to have proof by that time, that the company
 deserves to exists.
 
 During that time, a pro bono service called URI:Teller saw the daylight.
-It helped to reveal a privacy issue from a popular instant messaging client
+It helped to reveal a privacy issue from a popular insetant messaging client
 called Telegram. Telegram fixed the issues and URI:Teller is now used by
 individuals around the world.
 
