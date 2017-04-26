@@ -6,8 +6,8 @@
 
 # Security Startup Test Drive -program
 
-*A risk-free way to see if you
-would enjoy a life of a security startup hacker.*
+Security Startup Test Dive is a risk-free way to see if you
+would enjoy a life of a security startup hacker.
 
 ## Designed for You
 
@@ -39,7 +39,7 @@ what they want to do with their life.
 
 You have the opportunity to try out what it is like to be an entrepreneur.
 [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) -hard? Or just as hard
-than anything else you've wanted to do properly in your life? 
+than anything else you've wanted to do properly in your life?
 
 ## What's in it for Us
 
@@ -72,6 +72,7 @@ Don't make your life decisions based on perceptions. Get evidence!
 ## How does this work
 
 ![Flow](img/idea.png){: #w400r}
+
 ### Idea
 
 First we pick the idea together. You can bring your own idea, or your background. Understanding your background, we can probably propose a goal worth pursuing.
@@ -101,7 +102,7 @@ member of the team, just like you would be one of them.
 
 When I was a teenager, I swore that I'll never become an entrepreneur.
 Two exits later, I am very happy that I didn't keep my promise.
-While there are a lot of good signs that new generation is more adventorous, 
+While there are a lot of good signs that new generation is more adventorous,
 I still wonder: how many good ideas are left undone because of misconceptions about entrepreneurship.
 
 Years after I made my promise, I ended up in a situation where I could
@@ -123,8 +124,15 @@ their citizens. Not because I'm overly smart. Not because I'm special in any way
 I just ended up with the company of loony Finns with a desire to go a bit
 further than helping the local community, and became one of them.
 </div>
+
+<div markdown="1" class="container bg-hownetworks">
+
+<!-- markdownlint-disable MD022-->
+
 ## Case HowNetWorks Oy
 {: #white}
+
+<!-- markdownlint-enable MD022-->
 
 HowNetWorks was the first company to run the test drive.
 The founders balanced the lack business plan by
@@ -132,10 +140,10 @@ setting a strict deadline for the company. They set a self-destruct timer for
 three months. They wanted to have proof by that time, that the company
 deserves to exists.
 
-During that time, a pro bono service called URI:Teller saw the daylight.
-It helped to reveal a privacy issue from a popular insetant messaging client
-called Telegram. Telegram fixed the issues and URI:Teller is now used by
-individuals around the world.
+During that time, a pro bono service called [URI:Teller](https://uriteller.io/)
+saw the daylight. It helped to reveal a privacy issue from a popular insetant
+messaging client called Telegram. Telegram fixed the issues and URI:Teller is
+now used by individuals around the world.
 
 The founders, @oherrala and @FIXME learned tons of new networking tricks
 during that three months. Encouraged of the experiences, @oherrala joined
