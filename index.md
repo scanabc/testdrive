@@ -6,7 +6,7 @@
 
 # Security Startup Test Drive -Program
 
-Security Startup Test Dive is a risk-free way to see if you
+Security Startup Test Drive is a risk-free way to see if you
 would enjoy a life of a security startup hacker. Do you have an idea
 for improving our online security? Have you thought of setting up your
 own company? Do you wonder if you're up for it?
@@ -24,7 +24,7 @@ your startup. (Yes, it is yours!)
 ![Prototype](img/prototype.png){: #w400r}
 
 We've seen so many talented techies, novel ideas and
-prototypes stuck in a Garage-stage. We want them (and the
+prototypes stuck in a garage-stage. We want them (and the
 future ones) out to the world. We want to infect people with the same
 megalomania we have suffered for ages.
 
@@ -151,8 +151,9 @@ now used by individuals around the world.
 The founders, @oherrala and @jviide, learned tons of new networking tricks
 during that three months. Encouraged by the experiences @oherrala joined
 SensorFu, a security startup with an actual business plan.
-@jviide bought the shares of HowNetworks and he will keep it going
+@jviide bought the shares of HowNetWorks and he will keep it going
 while working on setting up a new company.
+
 </div>
 
 <!-- markdownlint-enable MD041-->
