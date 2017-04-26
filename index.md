@@ -7,7 +7,10 @@
 # Security Startup Test Drive -Program
 
 Security Startup Test Dive is a risk-free way to see if you
-would enjoy a life of a security startup hacker.
+would enjoy a life of a security startup hacker. Do you have an idea
+for improving our online security? Have you thought of setting up your
+own company? Do you wonder if you're up for it?
+Security Startup Test Drive might be the thing for you!
 
 ## Designed for You
 
