@@ -47,8 +47,9 @@ than anything else you've wanted to do properly in your life?
 ## What's in it for Us
 
 We want to earn our living and make our mark by improving the status quo in the
-information security field. We believe that most scalable way to do that is to
-pave way to new startups and individuals who take ownership, and be a small part of their success.
+information security field. We believe that most scalable way to do that is to pave
+way to new startups and individuals who take ownership. We want to help you get
+started and if things turn out to be successful, we share a small part of the success.
 
 ## Should I...
 
