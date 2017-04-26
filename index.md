@@ -4,7 +4,7 @@
 <!-- markdownlint-disable MD033-->
 <!-- markdownlint-disable MD026-->
 
-# Security Startup Test Drive -program
+# Security Startup Test Drive -Program
 
 Security Startup Test Dive is a risk-free way to see if you
 would enjoy a life of a security startup hacker.
@@ -28,10 +28,10 @@ megalomania we have suffered for ages.
 ## Why the Test Drive and not the Real Deal
 
 The real deal is certainly an option. We've just found out that two
-things sometimes block people for considering the life of an enterpreneur:
+things sometimes block people for considering the life of an entrepreneur:
 financial insecurity and fear of excessive workload. Time-limited test drive
-allows people to give it a spin, and then make a tad more balanced decision
-what they want to do with their life.
+allows people to give it a spin, and then decide what they want to do with
+their life.
 
 <div markdown="1" class="container bg-dark">
 
@@ -69,13 +69,13 @@ Don't make your life decisions based on perceptions. Get evidence!
 
 <div markdown="1" class="container">
 
-## How does this work
+## How Does This Work
 
 ![Flow](img/idea.png){: #w400r}
 
 ### Idea
 
-First we pick the idea together. You can bring your own idea, or your background. Understanding your background, we can probably propose a goal worth pursuing.
+First we pick the idea together. You can bring your own idea, or just your background. Understanding your background, we can probably propose a goal worth pursuing.
 
 ### Cultivate
 
