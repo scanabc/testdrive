@@ -128,9 +128,9 @@ two options. Spread the word through academic papers, or
 through a commercial company. I had just gone a heavyish process of writing my
 M.Sc thesis, so I thought I could give the commercial path a try.
 
-That decision to "try" set things in motion.
+That decision to **try** set things in motion.
 I ended up places I could have never imagined. And such (positively) peculiar
-things happened that I find Mark Twain's words solid:
+things happened that I now find Mark Twain's words solid:
 
 *Truth is stranger than fiction, but it is because Fiction is obliged to
 stick to possibilities; Truth isn't.*
