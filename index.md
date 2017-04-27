@@ -23,19 +23,10 @@ your startup. (Yes, it is yours!)
 
 ![Prototype](img/prototype.jpg){: #w400r}
 
-We've seen so many talented techies, novel ideas and
-prototypes stuck in a garage-stage. We want them (and the
-future ones) out to the world. We want to infect people with the same
-megalomania we have suffered for ages.
-
-## Why the Test Drive and not the Real Deal
-
-The real deal is certainly an option. We've just found out that two
-things sometimes block people for considering the life of an entrepreneur:
-financial insecurity and fear of excessive workload. Time-limited test drive
-allows people to give it a spin, and then decide what they want to do with
-their life.
-
+We've seen too many talented techies, novel ideas, and prototypes stuck in a
+garage-stage. We want to inspire people with good skills and ideas. We want to help
+them to break out to the world. If we can improve the status quo in our field, 
+the society can trust tech more, and fly higher, faster. This is our end game.
 <div markdown="1" class="container bg-dark">
 
 ## What's in it for You
@@ -50,7 +41,7 @@ We want to earn our living and make our mark by improving the status quo in the
 information security field. We believe that most scalable way to do that is to pave
 way to new startups and individuals who take ownership. We want to help you get
 started and if things turn out to be successful, we share a small part of the success.
- 
+
 ## Who Are We
 
 We are security startup veterans with 1-2 exits behind us. We spent [15 years](https://en.wikipedia.org/wiki/Codenomicon) popularising new products in new
@@ -62,6 +53,14 @@ afternoons. You can also find us online: [Twitter](https://twitter.com/scanabc),
 [Medium](https://medium.com/@scanabc/has-recommended),
 [Reddit](https://www.reddit.com/r/scanabc/), or
 [GitHub](https://github.com/scanabc).
+
+## Why the Test Drive and not the Real Deal
+
+The real deal is certainly an option. We've just found out that two
+things sometimes block people for considering the life of an entrepreneur:
+financial insecurity and fear of excessive workload. Time-limited test drive
+allows people to give it a spin, and then decide what they want to do with
+their life.
 
 ## Should I...
 
@@ -161,11 +160,13 @@ saw the daylight. It helped to reveal a privacy issue from a popular instant
 messaging client called Telegram. Telegram fixed the issues and URI:Teller is
 now used by individuals around the world.
 
-The founders, @oherrala and @jviide, learned tons of new networking tricks
-during that three months. Encouraged by the experiences @oherrala joined
-SensorFu, a security startup with an actual business plan.
-@jviide bought the shares of HowNetWorks and he will keep it going
-while working on setting up a new company.
+HowNetworks paved the way for another company, called SensorFu. SensorFu is the
+other side of the same coin -  while HowNetworks focuses on 
+[net neutrality](https://en.wikipedia.org/wiki/Net_neutrality),
+SensorFu focuses on sealing the network security policies. Having just aquired
+relevant new skills in HowNetWorks, @oherrala co-founded SensorFu to lead their
+product development. @jviide bought the shares of HowNetWorks and he will keep 
+it going while working on setting up a new company.
 
 </div>
 
