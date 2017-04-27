@@ -53,17 +53,22 @@
 .bg-jani {
   color: #000;
   background-color: #fff;
-  background: linear-gradient(rgba(230, 210, 150, 0.1), rgba(230, 210, 150, 0.1) ), url(../../img/jani.png);
+  background: linear-gradient(rgba(230, 210, 150, 0.1), rgba(230, 210, 150, 0.1) ), url(../../img/jani.jpg);
   background-position: $background-position;
   max-width: 3000px;
   background-size: 100%;
   background-repeat: no-repeat;
 
 }
+
 .bg-dark {
   background-color: #333;
   color: #ddd; //rgb(96,108,113);
   //font-weight: 200;
+}
+
+.bg-dark a {
+  color: #cce;
 }
 
 .bg-hownetworks {
@@ -72,9 +77,11 @@
   //background-position: $background-position;
   background-position: 20% 30%;
   max-width: 3000px;
-
 }
 
+.bg-hownetworks a {
+    color: #cce;
+}
 
 #background {
   padding-left: 0rem;
