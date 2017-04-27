@@ -54,7 +54,7 @@ started and if things turn out to be successful, we share a small part of the su
 ## Who Are We
 
 We are security startup veterans with 1-2 exits behind us. We spent [15 years](https://en.wikipedia.org/wiki/Codenomicon) popularising new products in new
-product categories. It went well enough that we are now able to help others.
+product categories. It went well enough that we are now able to help you.
 
 Best way to get to know us is to stop by at [Kielo premises in Teknologiatie 18, 90570
 Oulu](https://youtu.be/r-e25qPsojc?t=9s), we have open doors in Tuesday
