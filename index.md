@@ -47,12 +47,9 @@ We are security startup veterans with 1-2 exits behind us. We spent [15
 years](https://en.wikipedia.org/wiki/Codenomicon) popularising new products in
 new product categories. It went well enough that we are now able to help you.
 
-Best way to get to know us is to stop by at [Kielo premises in Teknologiatie 18,
-90570 Oulu](https://youtu.be/r-e25qPsojc?t=9s), we have open doors in Tuesday
-afternoons. You can also find us online: [Twitter](https://twitter.com/scanabc),
-[Medium](https://medium.com/@scanabc/has-recommended),
-[Reddit](https://www.reddit.com/r/scanabc/), or
-[GitHub](https://github.com/scanabc).
+You can find us online. [Our main page](http://www.scanabc.com/) has
+several social links at the bottom. If you prefer a more personal touch, message
+[Jani in LinkedIn](https://www.linkedin.com/in/janikenttala/).
 
 ## Why the Test Drive and not the Real Deal
 
