@@ -50,7 +50,7 @@ We want to earn our living and make our mark by improving the status quo in the
 information security field. We believe that most scalable way to do that is to pave
 way to new startups and individuals who take ownership. We want to help you get
 started and if things turn out to be successful, we share a small part of the success.
-
+ 
 ## Who Are We
 
 We are security startup veterans with 1-2 exits behind us. We spent [15 years](https://en.wikipedia.org/wiki/Codenomicon) popularising new products in new
@@ -156,7 +156,7 @@ setting a strict deadline for the company. They set the self-destruct timer to
 three months. That was the deadline for delivering the proof that the company
 deserves to exists.
 
-During those threee months a pro bono service called [URI:Teller](https://uriteller.io/)
+During those three months a pro bono service called [URI:Teller](https://uriteller.io/)
 saw the daylight. It helped to reveal a privacy issue from a popular instant
 messaging client called Telegram. Telegram fixed the issues and URI:Teller is
 now used by individuals around the world.
