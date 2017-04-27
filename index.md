@@ -15,7 +15,9 @@ you're up for it? Security Startup Test Drive might be the thing for you!
 
 We didn't design this to test you. We did it for you. You can test a life as a
 hip security startup hacker! If you like it, you get to keep your startup. (Yes,
-it is yours!) {: style="page-break-after: always;"}
+it is yours!)
+
+{: style="page-break-after: always;"}
 
 ## Why are we Doing This
 
