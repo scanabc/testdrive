@@ -7,7 +7,7 @@
 # Security Startup Test Drive -Program
 
 Security Startup Test Drive is a risk-free way to see if you
-would enjoy a life of a security startup hacker. Do you have an idea
+would enjoy a life of a security startup entrepreneur. Do you have an idea
 for improving our online security? Have you thought of setting up your
 own company? Do you wonder if you're up for it?
 Security Startup Test Drive might be the thing for you!
@@ -21,7 +21,7 @@ your startup. (Yes, it is yours!)
 
 ## Why are we Doing This
 
-![Prototype](img/prototype.png){: #w400r}
+![Prototype](img/prototype.jpg){: #w400r}
 
 We've seen so many talented techies, novel ideas and
 prototypes stuck in a garage-stage. We want them (and the
@@ -51,6 +51,18 @@ information security field. We believe that most scalable way to do that is to p
 way to new startups and individuals who take ownership. We want to help you get
 started and if things turn out to be successful, we share a small part of the success.
 
+## Who Are We
+
+We are security startup veterans with 1-2 exits behind us. We spent [15 years](https://en.wikipedia.org/wiki/Codenomicon) popularising new products in new
+product categories. It went well enough that we are now able to help others.
+
+Best way to get to know us is to stop by at [Kielo premises in Teknologiatie 18, 90570
+Oulu](https://youtu.be/r-e25qPsojc?t=9s), we have open doors in Tuesday
+afternoons. You can also find us online: [Twitter](https://twitter.com/scanabc),
+[Medium](https://medium.com/@scanabc/has-recommended),
+[Reddit](https://www.reddit.com/r/scanabc/), or
+[GitHub](https://github.com/scanabc).
+
 ## Should I...
 
 A life of an entrepreneur might be for you, if you:
@@ -75,7 +87,7 @@ Don't make your life decisions based on perceptions. Get evidence!
 
 ## How Does This Work
 
-![Flow](img/idea.png){: #w400r}
+![Flow](img/idea.jpg){: #w400r}
 
 ### Idea
 
@@ -87,7 +99,7 @@ Then we cultivate the idea a bit - together of course.
 Is the world ready for the idea?
 Are we missing something needed to make it happen?
 A team member? More detailed plan? The goal is to make sure the
-next three months are fruitful (= fun).
+next three months are fun and fruitful.
 
 ### Standalone or Adoption
 
