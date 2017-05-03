@@ -136,6 +136,11 @@ I ended up helping a number of governments to improve the online security of
 their citizens. Not because I'm overly smart. Not because I'm special in any
 way. I just ended up with the company of loony Finns with a desire to go a bit
 further than helping the local community, and became one of them.
+
+If you know Finnish, [listen in SoundCloud](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
+what Jani has to say about entrepreneurship.
+
+
 </div>
 
 <div markdown="1" class="container bg-hownetworks">
@@ -166,6 +171,7 @@ in HowNetWorks, @oherrala co-founded SensorFu to lead their product development.
 on setting up a new company.
 
 </div>
+
 
 <!-- markdownlint-enable MD041-->
 <!-- markdownlint-enable MD033-->
