@@ -46,7 +46,7 @@ the success.
 ## Who Are We
 
 We at [Scandinavian ABC](http://www.scanabc.com/) are security startup veterans with 1-2
-exits behind us. We spent [15years](https://en.wikipedia.org/wiki/Codenomicon)
+exits behind us. We spent [15 years](https://en.wikipedia.org/wiki/Codenomicon)
 popularising new products in new product categories. It went well enough that we are
 now able to help you.
 
