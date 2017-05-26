@@ -107,8 +107,10 @@ own feet and is worthy of an own company. In the adoption path we have chosen an
 idea which fundamentally supports some of the companies already set up. The
 companies in our portfolio are small and cherish open culture and are happy to
 adopt you for a test-run. You will be a full member of the team, just like you
-would be one of them. {: style="page-break-after: always;"}
+would be one of them.
 </div>
+
+{: style="page-break-after: always;"}
 
 <div markdown="1" class="container bg-jani">
 
@@ -141,7 +143,6 @@ further than helping the local community, and became one of them.
 If you know Finnish, [listen in SoundCloud](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
 what Jani has to say about entrepreneurship.
 
-
 </div>
 
 <div markdown="1" class="container bg-hownetworks">
@@ -172,7 +173,6 @@ in HowNetWorks, @oherrala co-founded SensorFu to lead their product development.
 on setting up a new company.
 
 </div>
-
 
 <!-- markdownlint-enable MD041-->
 <!-- markdownlint-enable MD033-->
