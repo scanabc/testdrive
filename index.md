@@ -112,39 +112,6 @@ would be one of them.
 
 {: style="page-break-after: always;"}
 
-<div markdown="1" class="container bg-jani">
-
-## Case Jani Kenttälä
-
-When I was a teenager, I swore that I'll never become an entrepreneur. Two exits
-later, I am very happy that I didn't keep my promise. While there are a lot of
-good signs that new generation is more adventorous, I still wonder: how many
-good ideas are left undone because of misconceptions about entrepreneurship.
-
-Years after I made my promise, I ended up in a situation where I could give
-entrepreneurship a spin. Me and my colleagues at the University of Oulu thought
-we had something to contribute to the world. We had two options. Spread the word
-through academic papers, or through a commercial company. I had just gone a
-heavyish process of writing my M.Sc thesis, so I thought I could give the
-commercial path a try.
-
-That decision to **try** set things in motion. I ended up places I could have
-never imagined. And such (positively) peculiar things happened that I now find
-Mark Twain's words solid:
-
-*Truth is stranger than fiction, but it is because Fiction is obliged to stick
-to possibilities; Truth isn't.*
-
-I ended up helping a number of governments to improve the online security of
-their citizens. Not because I'm overly smart. Not because I'm special in any
-way. I just ended up with the company of loony Finns with a desire to go a bit
-further than helping the local community, and became one of them.
-
-If you know Finnish, [listen in SoundCloud](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
-what Jani has to say about entrepreneurship.
-
-</div>
-
 <div markdown="1" class="container bg-hownetworks">
 
 <!-- markdownlint-disable MD022-->
@@ -173,6 +140,58 @@ in HowNetWorks, @oherrala co-founded SensorFu to lead their product development.
 on setting up a new company.
 
 </div>
+
+<div markdown="1" class="container bg-jani">
+
+## Case Jani Kenttälä
+
+When I was a teenager, I swore that I'll never become an entrepreneur. Two exits
+later, I am very happy that I didn't keep my promise. While there are a lot of
+good signs that new generation is more adventorous, I still wonder: how many
+good ideas are left undone because of misconceptions about entrepreneurship.
+
+Years after I made my promise, I ended up in a situation where I could give
+entrepreneurship a spin. Me and my colleagues at the University of Oulu thought
+we had something to contribute to the world. We had two options. Spread the word
+through academic papers, or through a commercial company. I had just gone a
+heavyish process of writing my M.Sc thesis, so I thought I could give the
+commercial path a try.
+
+That decision to **try** set things in motion. I ended up places I could have
+never imagined. And such (positively) peculiar things happened that I now find
+Mark Twain's words solid:
+
+*Truth is stranger than fiction, but it is because Fiction is obliged to stick
+to possibilities; Truth isn't.*
+
+Eventually, I found myself helping a number of governments to improve the online security of
+their citizens. Not because I'm overly smart. Not because I'm special in any
+way. I just became one of the loony Finns around me with a desire to go a bit
+further than helping the local community.
+
+If you know Finnish, [listen in SoundCloud](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
+what Jani has to say about entrepreneurship.
+
+</div>
+
+<div markdown="1" class="container bg-sensorfu">
+
+<!-- markdownlint-disable MD022-->
+
+## Case SensorFu Oy
+{: #white}
+
+SensorFu was the third company founded within the Scandinavian ABC ecosystem. SensorFu founders
+were not afraid of startup-life. But they were concerned about how much they can focus on executing
+their actual idea, and how much time would go to support activities.
+
+"I don't think I would have gone ahead and start a company, if I had not found support.", says Mikko, the CEO of SensorFu. The model Scandinavian ABC was building was a good match. It complemented the skills which were missing from the founder team. Especially, Virpi's help with the Financial side has allowed me to focus on things more close to my heart." [Listen Mikko's Interview](https://soundcloud.com/user-400350533/rattoradio-interviews-sensorfus-ceo-mikko) in SoundCloud.
+
+Another SensorFu founder, Sebastian komppaa: "Starting up was easy, I've been able to focus on the product
+100%."
+
+</div>
+<!-- markdownlint-enable MD022-->
 
 <!-- markdownlint-enable MD041-->
 <!-- markdownlint-enable MD033-->
