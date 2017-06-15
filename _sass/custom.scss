@@ -73,10 +73,10 @@
 
 .bg-hownetworks {
   color: #fff;
-  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5) ), url(../../img/plan.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(1, 0, 0, 0.5) ), url(../../img/plan.jpg);
   //background-position: $background-position;
+  background-size: 100%;
   background-position: 20% 30%;
-  max-width: 3000px;
 }
 
 .bg-hownetworks a {
