@@ -191,7 +191,7 @@ necessary for running a company.
 We and our idea now had our fair shot.* Mikko has mentioned several times
 how he saw Virpi's help on running the books was crucial: *figuring all those
 things out would have taken most of my energy. Now I can focus on solving
-the problem we have seen many customers struggling with." Mikko's co-founder
+the problem we have seen many customers struggling with.* Mikko's co-founder
 Sebastian concurs: *starting up was surprisingly easy, I've been able to focus
 on the product 100%.*
 
