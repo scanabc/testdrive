@@ -181,14 +181,21 @@ what Jani has to say about entrepreneurship.
 ## Case SensorFu Oy
 {: #white}
 
-SensorFu was the third company founded within the Scandinavian ABC ecosystem. SensorFu founders
-were not afraid of startup-life. But they were concerned about how much they can focus on executing
-their actual idea, and how much time would go to support activities.
+SensorFu was the third company founded within the Scandinavian ABC ecosystem. The
+founders were not afraid of the life of an enterpreneur. And they knew their idea
+was solid. There was just one thing standing in their way: the team lacked the skills
+necessary for running a company.
 
-"I don't think I would have gone ahead and start a company, if I had not found support.", says Mikko, the CEO of SensorFu. The model Scandinavian ABC was building was a good match. It complemented the skills which were missing from the founder team. Especially, Virpi's help with the Financial side has allowed me to focus on things more close to my heart." [Listen Mikko's Interview](https://soundcloud.com/user-400350533/rattoradio-interviews-sensorfus-ceo-mikko) in SoundCloud.
+*Scandinavian ABC was the missing piece*, says Mikko, the CEO of SensorFu.
+*I wouldn't have to learn the perks of running a company all at once.
+We and our idea now had our fair shot.* Mikko has mentioned several times
+how he saw Virpi's help on running the books was crucial: *figuring all those
+things out would have taken most of my energy. Now I can focus on solving
+the problem we have seen many customers struggling with." Mikko's co-founder
+Sebastian concurs: *starting up was surprisingly easy, I've been able to focus
+on the product 100%.*
 
-Another SensorFu founder, Sebastian komppaa: "Starting up was easy, I've been able to focus on the product
-100%."
+[Listen Mikko's Interview](https://soundcloud.com/user-400350533/rattoradio-interviews-sensorfus-ceo-mikko) from the early days of SensorFu, or follow them in [Medium](https://medium.com/scanabc/sensorfu/home) or in in [Twitter](https://twitter.com/sensorfu)
 
 </div>
 <!-- markdownlint-enable MD022-->
