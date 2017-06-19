@@ -157,7 +157,7 @@ what Jani has to say about entrepreneurship.
 HowNetWorks was the first company to run the test drive. The founders balanced
 the lack of a surefire business plan by setting a strict deadline for the
 company. They set the self-destruct timer to three months. That was the deadline
-for delivering the proof that the company deserves to exists.
+for delivering the proof that the company deserves to exist.
 
 During those three months a pro bono service called
 [URI:Teller](https://uriteller.io/) saw the daylight. It helped to reveal a
