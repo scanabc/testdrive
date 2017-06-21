@@ -173,7 +173,6 @@ further than helping the local community.
 Follow Jani on [Twitter](https://twitter.com/janikenttala) or on [Medium](https://medium.com/@janikenttala). If you know Finnish, you can [listen](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
 what Jani has to say about entrepreneurship.
 
-
 </div>
 
 <div markdown="1" class="container bg-sensorfu">
@@ -193,7 +192,7 @@ for running a company.
 *Scandinavian ABC was the missing piece*, says Mikko, the CEO of SensorFu.
 *I wouldn't have to learn the perks of running a company all at once.
 We and our idea now had our fair shot.* Mikko has mentioned several times
-how he saw Virpi's help on running the books crucial: *figuring all those
+how he saw Virpi's help on governing the company the crucial: *figuring all those
 things out would have taken most of my energy. Now I can focus on solving
 the problem we have seen many customers struggling with.* Mikko's co-founder
 Sebastian concurs: *starting up was surprisingly easy, I've been able to focus
