@@ -183,12 +183,12 @@ what Jani has to say about entrepreneurship.
 ## Case SensorFu Oy
 {: #white}
 
+<!-- markdownlint-enable MD022-->
+
 SensorFu was the third company founded within the Scandinavian ABC ecosystem. The
 founders were not afraid of the life of an entrepreneur. And they knew their idea
 was solid. Just one thing stood in their way: the team lacked the skills
 for running a company.
-
-<!-- markdownlint-enable MD022-->
 
 *Scandinavian ABC was the missing piece*, says Mikko, the CEO of SensorFu.
 *I wouldn't have to learn the perks of running a company all at once.
@@ -202,7 +202,6 @@ on the product 100%.*
 [Listen Mikko's Interview](https://soundcloud.com/user-400350533/rattoradio-interviews-sensorfus-ceo-mikko) from the early days of SensorFu, or follow them on [Medium](https://medium.com/scanabc/sensorfu/home) or on [Twitter](https://twitter.com/sensorfu)
 
 </div>
-<!-- markdownlint-enable MD022-->
 
 <!-- markdownlint-enable MD041-->
 <!-- markdownlint-enable MD033-->
