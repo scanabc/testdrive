@@ -139,6 +139,7 @@ in HowNetWorks, @oherrala co-founded SensorFu to lead their product development.
 @jviide bought the shares of HowNetWorks and he will keep it going while working
 on setting up a new company.
 
+Follow HowNetWorks on [Twitter](https://twitter.com/hownetworksio).
 </div>
 
 <div markdown="1" class="container bg-jani">
@@ -150,7 +151,7 @@ later, I am very happy that I didn't keep my promise. While there are a lot of
 good signs that new generation is more adventorous, I still wonder: how many
 good ideas are left undone because of misconceptions about entrepreneurship.
 
-Years after I made my promise, I ended up in a situation where I could give
+Years after I made my promise, I was in a situation where I could give
 entrepreneurship a spin. Me and my colleagues at the University of Oulu thought
 we had something to contribute to the world. We had two options. Spread the word
 through academic papers, or through a commercial company. I had just gone a
@@ -169,8 +170,9 @@ their citizens. Not because I'm overly smart. Not because I'm special in any
 way. I just became one of the loony Finns around me with a desire to go a bit
 further than helping the local community.
 
-If you know Finnish, [listen in SoundCloud](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
+Follow Jani on [Twitter](https://twitter.com/janikenttala) or on [Medium](https://medium.com/@janikenttala). If you know Finnish, you can [listen](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
 what Jani has to say about entrepreneurship.
+
 
 </div>
 
@@ -197,7 +199,7 @@ the problem we have seen many customers struggling with.* Mikko's co-founder
 Sebastian concurs: *starting up was surprisingly easy, I've been able to focus
 on the product 100%.*
 
-[Listen Mikko's Interview](https://soundcloud.com/user-400350533/rattoradio-interviews-sensorfus-ceo-mikko) from the early days of SensorFu, or follow them in [Medium](https://medium.com/scanabc/sensorfu/home) or in in [Twitter](https://twitter.com/sensorfu)
+[Listen Mikko's Interview](https://soundcloud.com/user-400350533/rattoradio-interviews-sensorfus-ceo-mikko) from the early days of SensorFu, or follow them on [Medium](https://medium.com/scanabc/sensorfu/home) or on [Twitter](https://twitter.com/sensorfu)
 
 </div>
 <!-- markdownlint-enable MD022-->
