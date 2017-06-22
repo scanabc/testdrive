@@ -1,5 +1,4 @@
 
-
 .project-name {
    color: #ffe;
    font-size: 45px;
@@ -55,12 +54,10 @@
   background-color: #fff;
   background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5) ), url(../../img/jani.jpg);
   background-position: $background-position;
-  max-width: 3000px;
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-top: 6em;
   padding-bottom: 6em;
-
 }
 
 .bg-dark {
@@ -76,8 +73,8 @@
 .bg-hownetworks {
   color: #fff;
   background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(1, 0, 0, 0.6) ), url(../../img/plan.jpg);
-  //background-position: $background-position;
-  background-size: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
   background-position: 20% 30%;
   padding-top: 6em;
   padding-bottom: 6em;
@@ -91,8 +88,8 @@
 .bg-sensorfu {
   color: #fff;
   background: linear-gradient( rgba(0,0,0, 0.6), rgba(0,0,0, 0.8) ), url(../../img/sensorfu.jpg);
-  //background-position: $background-position;
-  background-size: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding-top: 6em;
   padding-bottom: 6em;
   background-position: 20% 5%;
