@@ -139,7 +139,7 @@ in HowNetWorks, @oherrala co-founded SensorFu to lead their product development.
 @jviide bought the shares of HowNetWorks and he will keep it going while working
 on setting up a new company.
 
-Follow HowNetWorks on [Twitter](https://twitter.com/hownetworksio).
+Follow HowNetWorks on [Medium](https://medium.com/hownetworks) or on [Twitter](https://twitter.com/hownetworksio).
 </div>
 
 <div markdown="1" class="container bg-jani">
