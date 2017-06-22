@@ -112,39 +112,6 @@ would be one of them.
 
 {: style="page-break-after: always;"}
 
-<div markdown="1" class="container bg-jani">
-
-## Case Jani Kenttälä
-
-When I was a teenager, I swore that I'll never become an entrepreneur. Two exits
-later, I am very happy that I didn't keep my promise. While there are a lot of
-good signs that new generation is more adventorous, I still wonder: how many
-good ideas are left undone because of misconceptions about entrepreneurship.
-
-Years after I made my promise, I ended up in a situation where I could give
-entrepreneurship a spin. Me and my colleagues at the University of Oulu thought
-we had something to contribute to the world. We had two options. Spread the word
-through academic papers, or through a commercial company. I had just gone a
-heavyish process of writing my M.Sc thesis, so I thought I could give the
-commercial path a try.
-
-That decision to **try** set things in motion. I ended up places I could have
-never imagined. And such (positively) peculiar things happened that I now find
-Mark Twain's words solid:
-
-*Truth is stranger than fiction, but it is because Fiction is obliged to stick
-to possibilities; Truth isn't.*
-
-I ended up helping a number of governments to improve the online security of
-their citizens. Not because I'm overly smart. Not because I'm special in any
-way. I just ended up with the company of loony Finns with a desire to go a bit
-further than helping the local community, and became one of them.
-
-If you know Finnish, [listen in SoundCloud](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
-what Jani has to say about entrepreneurship.
-
-</div>
-
 <div markdown="1" class="container bg-hownetworks">
 
 <!-- markdownlint-disable MD022-->
@@ -157,7 +124,7 @@ what Jani has to say about entrepreneurship.
 HowNetWorks was the first company to run the test drive. The founders balanced
 the lack of a surefire business plan by setting a strict deadline for the
 company. They set the self-destruct timer to three months. That was the deadline
-for delivering the proof that the company deserves to exist.
+for delivering the proof that the company deserves to exists.
 
 During those three months a pro bono service called
 [URI:Teller](https://uriteller.io/) saw the daylight. It helped to reveal a
@@ -171,6 +138,67 @@ sealing the network security policies. Having just aquired relevant new skills
 in HowNetWorks, @oherrala co-founded SensorFu to lead their product development.
 @jviide bought the shares of HowNetWorks and he will keep it going while working
 on setting up a new company.
+
+Follow HowNetWorks on [Twitter](https://twitter.com/hownetworksio).
+</div>
+
+<div markdown="1" class="container bg-jani">
+
+## Case Jani Kenttälä
+
+When I was a teenager, I swore that I'll never become an entrepreneur. Two exits
+later, I am very happy that I didn't keep my promise. While there are a lot of
+good signs that new generation is more adventorous, I still wonder: how many
+good ideas are left undone because of misconceptions about entrepreneurship.
+
+Years after I made my promise, I was in a situation where I could give
+entrepreneurship a spin. Me and my colleagues at the University of Oulu thought
+we had something to contribute to the world. We had two options. Spread the word
+through academic papers, or through a commercial company. I had just gone a
+heavyish process of writing my M.Sc thesis, so I thought I could give the
+commercial path a try.
+
+That decision to **try** set things in motion. I ended up places I could have
+never imagined. And such (positively) peculiar things happened that I now find
+Mark Twain's words solid:
+
+*Truth is stranger than fiction, but it is because Fiction is obliged to stick
+to possibilities; Truth isn't.*
+
+Eventually, I found myself helping a number of governments to improve the online security of
+their citizens. Not because I'm overly smart. Not because I'm special in any
+way. I just became one of the loony Finns around me with a desire to go a bit
+further than helping the local community.
+
+Follow Jani on [Twitter](https://twitter.com/janikenttala) or on [Medium](https://medium.com/@janikenttala). If you know Finnish, you can [listen](https://soundcloud.com/user-400350533/rattoradio-haastattelu-ouspg-open-ja-startup-test-drive)
+what Jani has to say about entrepreneurship.
+
+</div>
+
+<div markdown="1" class="container bg-sensorfu">
+
+<!-- markdownlint-disable MD022-->
+
+## Case SensorFu Oy
+{: #white}
+
+<!-- markdownlint-enable MD022-->
+
+SensorFu was the third company founded within the Scandinavian ABC ecosystem. The
+founders were not afraid of the life of an entrepreneur. And they knew their idea
+was solid. Just one thing stood in their way: the team lacked the skills
+for running a company.
+
+*Scandinavian ABC was the missing piece*, says Mikko, the CEO of SensorFu.
+*I wouldn't have to learn the perks of running a company all at once.
+Our idea now had a fair shot. * Mikko has found especially Virpi's help on
+setting up, planning & running the business operations crucial: *figuring all those
+things out would have taken most of my energy. Now I can focus on solving
+the problem we have seen many customers struggling with.* Mikko's co-founder
+Sebastian concurs: *starting up was surprisingly easy, I've been able to focus
+on the product 100%.*
+
+[Listen Mikko's Interview](https://soundcloud.com/user-400350533/rattoradio-interviews-sensorfus-ceo-mikko) from the early days of SensorFu, or follow them on [Medium](https://medium.com/scanabc/sensorfu/home) or on [Twitter](https://twitter.com/sensorfu)
 
 </div>
 
