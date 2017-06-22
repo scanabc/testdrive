@@ -191,8 +191,8 @@ for running a company.
 
 *Scandinavian ABC was the missing piece*, says Mikko, the CEO of SensorFu.
 *I wouldn't have to learn the perks of running a company all at once.
-We and our idea now had our fair shot.* Mikko has mentioned several times
-how he saw Virpi's help on governing the company the crucial: *figuring all those
+Our idea now had a fair shot. * Mikko has found especially Virpi's help on
+setting up, planning & running the business operations crucial: *figuring all those
 things out would have taken most of my energy. Now I can focus on solving
 the problem we have seen many customers struggling with.* Mikko's co-founder
 Sebastian concurs: *starting up was surprisingly easy, I've been able to focus
